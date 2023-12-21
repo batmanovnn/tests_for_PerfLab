@@ -1,3 +1,8 @@
+task3/
+task1/.idea/
+task2/.idea/
+task3/.idea/
+task4/.idea/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
